@@ -24,13 +24,13 @@ public class Patient {
 	
 	//Default Constructor
 	public Patient(){
-		patientID = "";
-		firstName = "";
-		lastName = "";
-		address = "";
-		city = "";
-		province = "";
-		postalCode = "";
+		patientID = "101";
+		firstName = "Shruti";
+		lastName = "Kaushal";
+		address = "ABC";
+		city = "Toronto";
+		province = "ON";
+		postalCode = "A1A1A1";
 	}
 	
 	//Setters for Instance Variables
